@@ -1,4 +1,4 @@
-print("from theprimeagen");
+print("from suyaser");
 
-require("theprimeagen.set");
+require("suyaser.set");
 
